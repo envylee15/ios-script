@@ -11,7 +11,7 @@
 **************************************
 
 [rewrite_local]
-^https?:\/\/yimuapp\.com:8082\/bookkeeping\/user\/getUserInfoById url script-response-body https://raw.githubusercontent.com/envylee15/ios-script/main/yimu.js?token=GHSAT0AAAAAACVNJUGEV4QKUZWT7EGMB7U4ZV2EFVA
+^https?:\/\/yimuapp\.com:8082\/bookkeeping\/user\/getUserInfoById url script-response-body https://raw.githubusercontent.com/envylee15/ios-script/main/yimu.js?token=GHSAT0AAAAAACVNJUGEXVV4FL5HOJPMM33CZV2ENSA
 
 [mitm]
 hostname = yimuapp.com
